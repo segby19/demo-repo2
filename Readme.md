@@ -9,3 +9,7 @@
 ```python
 print("Hello World")
 ```
+
+## 本機開發
+
+1. Open index.html in your browser.
